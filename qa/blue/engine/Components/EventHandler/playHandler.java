@@ -1,4 +1,3 @@
-package org.doublecloud.sample.junit.test;
 
 import static org.junit.Assert.assertEquals;
 
